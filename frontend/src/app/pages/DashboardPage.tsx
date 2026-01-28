@@ -62,11 +62,7 @@ export function DashboardPage() {
           </div>
 
           {/* Enterprise Notice */}
-          <div className="mt-8 text-center">
-            <p className="text-white/40 text-sm">
-              Production System • All risk assessments are computed server-side • Backend API is the single source of truth
-            </p>
-          </div>
+        
         </div>
       </div>
     </div>
